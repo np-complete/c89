@@ -3,3 +3,4 @@
 * [プログラマの仕事](programmers-job.md)
 * [プログラマのなりかた](how-to-be-a-programmer.md)
 * [プログラマの性格](programmers-character.md)
+* [プログラマの一日](one-day.md)
