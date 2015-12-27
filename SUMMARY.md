@@ -8,3 +8,5 @@
 * [プログラマの生存戦略](kinokoru.md)
 * [プログラマの一日](one-day.md)
 * [プログラマの結婚](marriage.md)
+* [プログラマの未来](programmers-future.md)
+* [あとがき](outro.md)
