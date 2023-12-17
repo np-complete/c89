@@ -1,15 +1,15 @@
 GIT
-  remote: git://github.com/masarakki/review.git
+  remote: https://github.com/masarakki/review.git
   revision: 67e521cd75a3b60afb63edba01d9952b92adc0b2
   branch: c86
   specs:
     review (1.3.0)
 
 GIT
-  remote: git://github.com/takahashim/md2review.git
-  revision: 6b8a5f919edd567c4338aa91a79ca01c9ae1ac39
+  remote: https://github.com/takahashim/md2review.git
+  revision: 04126a9de775ee522d3b40f26708fa3ec70219a0
   specs:
-    md2review (1.2.0)
+    md2review (1.12.1)
       redcarpet (> 2.0.0)
 
 GEM
@@ -21,8 +21,8 @@ GEM
       coderay (~> 1.1.0)
       method_source (~> 0.8.1)
       slop (~> 3.4)
-    rake (10.4.2)
-    redcarpet (3.2.2)
+    rake (13.1.0)
+    redcarpet (3.6.0)
     slop (3.6.0)
 
 PLATFORMS
@@ -33,3 +33,6 @@ DEPENDENCIES
   pry
   rake
   review!
+
+BUNDLED WITH
+   2.4.22
