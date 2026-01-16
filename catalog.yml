@@ -1,3 +1,5 @@
+PREDEF:
+  - README.re
 CHAPS:
   - what-is-programmer.re
   - how-to-be-a-programmer.re
