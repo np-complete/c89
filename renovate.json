@@ -32,10 +32,9 @@
     {
       "matchManagers": ["github-actions"],
       "matchPackageNames": [
-        "np-complete/build-book-action",
-        "np-complete/publish-book-action"
+        "np-complete/book-actions"
       ],
-      "minimumReleaseAge": null,
+      "minimumReleaseAge": "0 days",
       "automerge": true,
       "groupName": null
     }
