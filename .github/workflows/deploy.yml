@@ -12,4 +12,4 @@ jobs:
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
       - uses: np-complete/build-book-action@6291698101eaf6490329740e39db10bf0bfdfcd6 # v2
-      - uses: np-complete/publish-book-action@08a80ee532be432d973aad4a47efc1cf1a3ddd8e # v2
+      - uses: np-complete/publish-book-action@af8e271878eaf124eae461f585b118a6a29803f8 # v2
