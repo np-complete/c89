@@ -28,6 +28,16 @@
         "/^actions//",
         "/^np-complete//"
       ]
+    },
+    {
+      "matchManagers": ["github-actions"],
+      "matchPackageNames": [
+        "np-complete/build-book-action",
+        "np-complete/publish-book-action"
+      ],
+      "minimumReleaseAge": null,
+      "automerge": true,
+      "groupName": null
     }
   ],
   "vulnerabilityAlerts": {
